@@ -26,14 +26,14 @@ header {
 
 header h1 {
     font-family: var(--letra-header);
-    font-size: 8vw;
+    font-size: 9vw;
     padding-top: 60px;
 }
 
 header p {
     font-family: Arial, Helvetica, sans-serif;
     padding-bottom: 60px;
-    font-size: 1.3vw;
+    font-size: 3vw;
 
 }
 
