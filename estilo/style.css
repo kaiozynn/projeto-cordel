@@ -28,6 +28,7 @@ header h1 {
     font-family: var(--letra-header);
     font-size: 9vw;
     padding-top: 60px;
+    font-variant: small-caps;
 }
 
 header p {
